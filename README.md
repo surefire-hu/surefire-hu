@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**surefire-hu/surefire-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Steven,
+a fullstack developer
+
+## 🚀 My Skills
+
+<p align="left">
+    <img src="https://img.shields.io/badge/VueJs-4DBD8D?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-FFAA2F?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-F44E4D?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-45C0F9?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/BootStrap-7511E4?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailWind-3ABEF8?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sleep-001432?style=for-the-badge&logoColor=white" />
+
+</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surefire-Hu&show_icons=true&theme=radical" alt="Surefire-Hu's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surefire-Hu&theme=radical" alt="Surefire-Hu's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surefire-Hu&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+###
