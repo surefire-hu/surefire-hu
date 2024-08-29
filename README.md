@@ -7,7 +7,7 @@ a fullstack developer
 
 ## 🚀 My Skills
 
-<p align="left">
+<p align="center">
     <img src="https://img.shields.io/badge/VueJs-4DBD8D?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-FFAA2F?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-F44E4D?style=for-the-badge&logoColor=white" />
@@ -25,5 +25,8 @@ a fullstack developer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surefire-Hu&theme=radical" alt="Surefire-Hu's GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surefire-Hu&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
+<div align="center">
 
-###
+![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)
+
+</div>
