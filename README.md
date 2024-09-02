@@ -25,6 +25,16 @@ a fullstack developer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surefire-Hu&theme=radical" alt="Surefire-Hu's GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surefire-Hu&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=antoniostassi&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width:"100%"/>
+</p>
 <div align="center">
 
 ![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)
