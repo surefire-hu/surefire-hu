@@ -1,5 +1,5 @@
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=surefire-hu&label=Profile%20views&color=FF6C37&style=for-the-badge&logo=star" alt="surefire" style="padding-right:20px; align-center" />
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=surefire-hu&label=Profile%20views&color=FF6C37&style=for-the-badge&logo=star" alt="surefire" style="padding-right:20px;" />
   </p>
 ### Hi there 👋
 
