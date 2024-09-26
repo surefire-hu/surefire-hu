@@ -18,6 +18,7 @@ a fullstack developer
         <img src="https://img.shields.io/badge/CSS3-45C0F9?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/BootStrap-7511E4?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/TailWind-3ABEF8?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-6C78AF?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/Sleep-001432?style=for-the-badge&logoColor=white" />
 
 </p>
