@@ -12,14 +12,32 @@ a fullstack developer
 ## 🚀 My Skills
 
 <p align="center">
-    <img src="https://img.shields.io/badge/VueJs-4DBD8D?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-FFAA2F?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-F44E4D?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-45C0F9?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-6C78AF?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-015B85?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sleep-001432?style=for-the-badge&logoColor=white" />
+
+</p>
+
+## ⚡ My Framework
+
+<p align="center">
+    <img src="https://img.shields.io/badge/VueJs-4DBD8D?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/BootStrap-7511E4?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/TailWind-3ABEF8?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-6C78AF?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/Sleep-001432?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-EA4335?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logoColor=white" />
+
+</p>
+
+## 💼 My Tool
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Vite-4DBD8D?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-75BB5A?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/VScode-22A7F2?style=for-the-badge&logoColor=white" />
 
 </p>
 
