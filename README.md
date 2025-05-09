@@ -9,38 +9,45 @@
 I am Steven,
 a fullstack developer
 
-## 🚀 My Skills
+## 🧠 Languages
 
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-FFAA2F?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-F44E4D?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-45C0F9?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-6C78AF?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-015B85?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/Sleep-001432?style=for-the-badge&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-6C78AF?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-F44E4D?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-45C0F9?style=for-the-badge&logoColor=white" />
 </p>
 
-## ⚡ My Framework
+## ⚙️ Frameworks & Libraries
 
 <p align="center">
     <img src="https://img.shields.io/badge/VueJs-4DBD8D?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/BootStrap-7511E4?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailWind-3ABEF8?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/Laravel-EA4335?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-EA4335?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/BootStrap-7511E4?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailWind-3ABEF8?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logoColor=white" />
 </p>
 
-## 💼 My Tool
+## 🛠️ Tools & Platforms
 
 <p align="center">
+    <img src="https://img.shields.io/badge/Node.js-75BB5A?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-015B85?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Vite-4DBD8D?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-75BB5A?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/VScode-22A7F2?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/Xampp-FF6C37?style=for-the-badge&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/VScode-22A7F2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Xampp-FF6C37?style=for-the-badge&logoColor=white" />
 </p>
+
+## 😴 Fun
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Sleep-001432?style=for-the-badge&logoColor=white" />
+</p>
+
 
 ## 📊 GitHub Stats
 
