@@ -40,6 +40,7 @@ a fullstack developer
     <img src="https://img.shields.io/badge/Vite-4DBD8D?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/VScode-22A7F2?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Xampp-FF6C37?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ## 😴 Fun
