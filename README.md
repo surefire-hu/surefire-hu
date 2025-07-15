@@ -24,7 +24,7 @@ a fullstack developer
 <p align="center">
     <img src="https://img.shields.io/badge/VueJs-4DBD8D?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-EA4335?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/BootStrap-7511E4?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/TailWind-3ABEF8?style=for-the-badge&logoColor=white" />
