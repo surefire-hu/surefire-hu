@@ -62,28 +62,3 @@ a fullstack developer
     <img src="https://img.shields.io/badge/VS_Code-22A7F2?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> 
     <img src="https://img.shields.io/badge/XAMPP-FF6C37?style=for-the-badge&logo=xampp&logoColor=white" /> 
 </p>
-
-## 😴 Fun
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Sleep-001432?style=for-the-badge&logoColor=white" />
-</p>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surefire-Hu&show_icons=true&theme=radical" alt="Surefire-Hu's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surefire-Hu&theme=radical" alt="Surefire-Hu's GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surefire-Hu&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width:"100%"/>
-</p>
-<div align="center">
-
-![GIF](https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif)
-
-</div>
