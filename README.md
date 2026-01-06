@@ -9,6 +9,13 @@
 I am Steven,
 a fullstack developer
 
+## 🖥️ Operating Systems
+<p align="center"> 
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+</p>
+
 ## 🎨 Markup Styling
 
 <p align="center"> 
@@ -41,6 +48,7 @@ a fullstack developer
 <p align="center"> 
     <img src="https://img.shields.io/badge/Bootstrap-7511E4?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
     <img src="https://img.shields.io/badge/TailwindCSS-3ABEF8?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Vuetify-4DBD8D?style=for-the-badge&logo=vue.js&logoColor=white" /> 
 </p>
 
 ## 🛠️ Tools & Platforms
